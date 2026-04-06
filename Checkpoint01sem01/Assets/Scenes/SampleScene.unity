@@ -242,7 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Jankenpo
   pedraPlayer: 0
   papelPlayer: 0
-  tesouraPlayer: 1
+  tesouraPlayer: 0
 --- !u!4 &1894006793
 Transform:
   m_ObjectHideFlags: 0
