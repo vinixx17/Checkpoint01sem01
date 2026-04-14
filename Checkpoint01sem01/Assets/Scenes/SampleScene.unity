@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1963a264633070449ef9341fa7e9fe2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jankenpo
-  pedraPlayer: 0
+  pedraPlayer: 1
   papelPlayer: 0
   tesouraPlayer: 0
 --- !u!4 &1894006793
